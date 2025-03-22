@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="7989a4b0-5976-4f3b-8620-526de0f805b1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Group3-FinalProject/TextEncryption.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Group3-FinalProject" beforeDir="false" afterPath="$PROJECT_DIR$/Group3-FinalProject" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Group3-FinalProject/Group3_Final-Project/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Group3-FinalProject/Group3_Final-Project/TextEncryption.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

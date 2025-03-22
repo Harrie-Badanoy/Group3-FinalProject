@@ -1,9 +1,46 @@
-# Ignore IntelliJ IDEA settings and project files
-.idea/
+# Ignore all .iml files (IntelliJ IDEA project files)
 *.iml
 
-# Ignore build output
-out/
+# Ignore IntelliJ IDEA's settings folder
+.idea/
 
-# Ignore empty Git tracking files
-.gitkeep
+# Ignore compiled Java classes
+*.class
+
+# Ignore log files
+*.log
+
+# Ignore build outputs and generated files
+/out/
+*/target/
+*/build/
+
+# Ignore Maven dependencies
+.mvn/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Ignore Gradle files
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Ignore temporary files
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Ignore OS-specific files (Windows/macOS)
+Thumbs.db
+Desktop.ini
+
+# Ignore JetBrains-specific settings
+.idea/*
+*.iml
+*.iws
+
+
